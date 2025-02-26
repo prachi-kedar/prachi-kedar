@@ -26,7 +26,7 @@ Implements motion segmentation algorithms with clustering and non-consecutive pa
 
 ### Text Detection and Recognition Using CTPN and CRNN
 Detects and recognizes text in images using CTPN for text detection and CRNN for text recognition.
-[Explore the project](https://github.com/prachi-kedar/Text_Detection_Recognition-Using_CTPN_CRNN)
-
+[Text Detection Recognition](https://github.com/prachi-kedar/Text_Detection_Recognition-Using_CTPN_CRNN)
+[Explore the project](https://github.com/prachi-kedar/Text_Detection_Recognition-Using_CTPN_CRNN/blob/master/test_result/CustNID_19083600012.jpg)
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-kedar-681028184)
