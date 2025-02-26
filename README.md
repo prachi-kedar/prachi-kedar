@@ -7,7 +7,7 @@ I am a passionate developer with experience in image processing, machine learnin
 - 🌱 I’m currently learning advanced generative AI techniques
 - 👯 I’m looking to collaborate on open source projects related to image and video processing
 - 💬 Ask me about computer vision, deep learning, and Python
-- 📫 How to reach me: [email@example.com](prachibalu.kedar@mail.polimi.it)
+- 📫 How to reach me: prachibalu.kedar@mail.polimi.it
 
 ## My Projects
 ### Blood Cell Image Classification
