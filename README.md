@@ -10,6 +10,12 @@ I am a passionate developer with experience in image processing, machine learnin
 - 📫 How to reach me: prachibalu.kedar@mail.polimi.it
 
 ## My Projects
+
+### AI Powered Urban Intelligence and Sustainibility Portal
+web-based platform designed for urban planners and citizens to monitor, analyze, and interact with city-wide data.
+![Urban Intelligence and Sustainibility Portal](https://github.com/prachi-kedar/urban_intelligence_-_sustainability/blob/main/assets/preview.jpg)
+[Explore the project](https://github.com/prachi-kedar/urban_intelligence_-_sustainability)
+
 ### Blood Cell Image Classification
 Classifies white blood cells using custom CNN and transfer learning techniques.
 ![Blood Cell Images](https://github.com/prachi-kedar/Blood_Cell_Image_Classification/raw/main/images/blood_cells.jpg)
