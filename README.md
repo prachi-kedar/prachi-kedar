@@ -24,7 +24,7 @@ A full-stack, privacy-preserving voting dApp on Sui with zkLogin onboarding, one
 ### Blood Cell Image Classification
 Classifies white blood cells using custom CNN and transfer learning techniques.
 ![Blood Cell Images](https://github.com/prachi-kedar/Blood_Cell_Image_Classification/raw/main/images/blood_cells.jpg)
-[Explore the project](https://github.com/prachi-kedar/Blood_Cell_Image_Classification)
+![Explore the project](https://github.com/prachi-kedar/Blood_Cell_Image_Classification)
 
 ### Semantic Segmentation of Mars Terrain Images
 Performs semantic segmentation on Mars terrain images using U-Net and GAN-based approaches.
