@@ -16,6 +16,11 @@ web-based platform designed for urban planners and citizens to monitor, analyze,
 ![Urban Intelligence and Sustainibility Portal](https://github.com/prachi-kedar/urban_intelligence_-_sustainability/blob/main/assets/preview.jpg)
 [Explore the project](https://github.com/prachi-kedar/urban_intelligence_-_sustainability)
 
+### DeVote
+A full-stack, privacy-preserving voting dApp on Sui with zkLogin onboarding, one-person-one-vote via nullifiers, team self-vote prevention, and an auditable yet privacy-respecting results flow.
+![Decentralized Voting Platform Using SUI](https://github.com/prachi-kedar/DeVote/blob/main/asset/preview.jpg)
+[Explore the project](https://github.com/prachi-kedar/DeVote)
+
 ### Blood Cell Image Classification
 Classifies white blood cells using custom CNN and transfer learning techniques.
 ![Blood Cell Images](https://github.com/prachi-kedar/Blood_Cell_Image_Classification/raw/main/images/blood_cells.jpg)
